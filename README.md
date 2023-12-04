@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://www.linkedin.com/in/marcurbano/&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/marcurbano/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.facebook.com/DSaintM/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
