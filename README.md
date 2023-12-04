@@ -25,8 +25,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
-
+### About Me : 
+:computer: :mag: :bug: :closed_lock_with_key:
 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 0Day Exploit Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -42,7 +42,7 @@ Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+ :hammer_and_wrench: Languages and Tools :
 
 
 <div>
