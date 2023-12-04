@@ -25,23 +25,24 @@
 </div>
 
 ### About Me : 
-:computer: :mag: :bug: :closed_lock_with_key:
+- :computer: :mag: :bug: :closed_lock_with_key:
 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 0Day Exploit Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I explore the web for latest tech trends and vulnerabilities.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marc urbano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcurbano/)
+- :mailbox:How to reach me:   <a href="https://www.linkedin.com/in/marcurbano/">
+    <img src="https://img.shields.io/badge/marc%20urbano-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
 
- :wrench: Languages and Tools :
+ - :wrench: Languages and Tools :
 
 
 <div>
@@ -68,4 +69,4 @@ Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcUrbano&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcUrbano)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcUrbano)](https://github.com/MarcUrbano/github-readme-stats)
