@@ -14,10 +14,10 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MarcUrbano&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hello World 
+  Hello I'm Marc Urbano 
 </h1>
 
 <div align="center">
@@ -36,14 +36,13 @@ Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I explore the web for latest tech trends and vulnerabilities.
 
-- :mailbox:How to reach me:   <a href="https://www.linkedin.com/in/marcurbano/">
+- :mailbox: How to reach me   <a href="https://www.linkedin.com/in/marcurbano/">
     <img src="https://img.shields.io/badge/marc%20urbano-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 ---
 
- - :wrench: Languages and Tools :
-
+:wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -64,8 +63,8 @@ Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 </div>
 
 ---
-
-### :fire: My Stats :
+:fire:
+###  My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcUrbano&theme=dark&background=000000)](https://git.io/streak-stats)
 
