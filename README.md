@@ -18,7 +18,6 @@
 
 <h1>
   Hello World 
-  <img src="https://giphy.com/gifs/after-effects-trapcode-bad-sectors-2tTiCSfEEP5QS5TjGr" width="30px"/>
 </h1>
 
 <div align="center">
@@ -38,11 +37,11 @@ Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I explore the web for latest tech trends and vulnerabilities.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marc urbano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcurbano/)
 
 ---
 
- :hammer_and_wrench: Languages and Tools :
+ :wrench: Languages and Tools :
 
 
 <div>
