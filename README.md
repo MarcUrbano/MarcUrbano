@@ -46,20 +46,13 @@ I specialize in **0day research, CVE discovery, and stealthy TTPs**, with experi
 - **Security**: Exploit Dev, Reverse Engineering, Binary Analysis, Fuzzing  
 - **Hardware/IoT**: Arduino, ESP32  
 
----
-
-## 🏆 Selected Work
-
-- **CVE-20XX-YYYY** — [link to advisory/write-up]  
-- **Red Team Tooling** — custom fuzzing & exploit automation (link)  
-- **Full-Stack Security Platform** — end-to-end system with hardened APIs  
 
 ---
 
 ## ✍️ Publications & Research
 
-- [“Exploring Offensive Security in Modern Apps”](#)  
-- [“Bypassing X in Embedded Systems”](#)  
+- [“Exposing the Dark Side of Google Dorks: How I Extracted Millions of Data.”](https://medium.com/p/0fe0f7f6db8b)  
+- [“Automating Bug Bounty Hunts with Bash: A Beginner-Friendly Guide”](https://osintteam.blog/automating-bug-bounty-hunts-with-bash-a-beginner-friendly-guide-3fc2b3d7f341)  
 
 ---
 
@@ -67,7 +60,7 @@ I specialize in **0day research, CVE discovery, and stealthy TTPs**, with experi
 
 - LinkedIn: [linkedin.com/in/marcurbano](https://www.linkedin.com/in/marcurbano/)  
 - Twitter/X: [@pwndec0c0_](https://x.com/pwndec0c0_)  
-- Email: your.email@example.com  
+- Email: pwndec0c0@gmail.com  
 
 ---
 
