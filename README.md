@@ -1,79 +1,47 @@
+<!-- At the top, minimal visuals, no distracting GIFs -->
+
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-  ### Hi there, I'm **Marc Urbano** 👋  
-  💼 Full Stack Developer | 🔐 Security Engineer | 🛡️ Red Team Operator  
-
-  <div>
+  <h1>Marc Urbano (pwndec0c0)</h1>
+  <p>Full Stack Developer · Application Security Engineer · Red Team Operator</p>
+  <p>
     <a href="https://www.linkedin.com/in/marcurbano/">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
-    </a>
-    <a href="https://www.facebook.com/DSaintM/">
-      <img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook" />
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
     <a href="https://x.com/pwndec0c0_">
-      <img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter" />
+      <img src="https://img.shields.io/badge/Twitter-@pwndec0c0-blue?style=flat&logo=twitter" alt="Twitter" />
     </a>
-  </div>
-
-  <img src="https://komarev.com/ghpvc/?username=MarcUrbano&style=flat-square&color=blue" alt="Profile Views"/>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-me-%40-example.com-blue?style=flat&logo=gmail" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 💡 About Me  
-- 🚀 Offensive security + full-stack development enthusiast  
-- 🕵️ Focused on **0day research, CVEs, and stealthy TTPs**  
-- ✍️ Writing and sharing **technical deep-dives**  
-- 🌱 Always learning emerging threats & secure coding practices  
+## 👋 About Me
+
+I am a security-first full-stack developer with experience in offensive research, red teaming, and 0day discovery. I’ve authored CVEs and published tooling in the wild. I believe that good design is inseparable from secure design.
+
+- 🔍 Focus Areas: vulnerability research, exploitation, secure software architecture  
+- 🧠 Tech Stack: C#, Java, JavaScript/TypeScript, .NET, Node.js, React, Angular  
+- 🌐 Interests: fuzzing, binary exploitation, side-channel research, IoT security  
 
 ---
 
-### 🛠 Tech Stack
+## 📊 GitHub & Dev Metrics
 
-<details>
-<summary>Click to expand</summary>
+| Metric                        | Value / Tool | Notes |
+|------------------------------|--------------|-------|
+| Total GitHub stars            | `N` (via GH API / gh-stats) | Sum of stars across all your public repos |
+| Total commits                 | `M` (via GH API) | Over your entire history |
+| Languages breakdown           | Chart (via [GitHub Readme Stats]) | % by lines of code or repos |
+| Recent activity (last 30d)    | commits, contributions | Helps show you're active |
+| Repository clone / visitor stats | (if you enable repo-level traffic stats) | Shows repo interest over time |
 
-#### 👨‍💻 Languages
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+> 💡 *Pro tip:* Use tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) to embed dynamic metrics.
 
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+Example embed lines:
 
-#### ⚙️ Backend & DevOps
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
-
-#### 🔬 Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
-
-</details>
-
----
-
-### 📊 GitHub Analytics  
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MarcUrbano&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcUrbano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
-### ✍️ Latest Writings & Research
-📌 *(Optional: Add links to blog posts, CVEs, or conference talks)*
-
----
-
-### ⚡ Fun Fact  
-> "To catch a wolf, you must think like a wolf."
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcUrbano&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcUrbano&show_icons=true&theme=github_dark)
